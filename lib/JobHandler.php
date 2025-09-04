@@ -53,7 +53,7 @@ class JobHandler
 	/**
 	 * @var Job Instance of the class performing work for this job.
 	 */
-	private $instance;
+	private Job $instance;
 
 	/**
 	 * @var \Resque\Job\FactoryInterface
