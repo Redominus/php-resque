@@ -29,7 +29,7 @@
 	],
 	"require": {
 		"php": ">=7.4.0",
-		"colinmollenhour/credis": "1.7.*",
+		"colinmollenhour/credis": "1.16.*",
 		"psr/log": ">=1.1.0"
 	},
 	"suggest": {
